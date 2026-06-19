@@ -1,1 +1,20 @@
 GIT LEARNING:
+
+Git → a tool (software) that runs on your computer to track changes
+GitHub → an online platform that stores Git repositories and helps with sharing/collaboration
+
+What does git init do?
+
+It turns a normal folder into a Git repository
+
+After running it:
+
+Git starts tracking changes in that folder
+A hidden .git folder is created (this is the brain of Git)
+
+git add → putting pages into a “ready to save” tray/moves changes into the staging area (prepares what will be saved)
+git commit → taking a snapshot of everything in that tray/creates a snapshot of the staged changes in the Git history (repository)
+
+git status ->	current state (what’s changed now)
+
+git log ->	past history (what was saved before)
